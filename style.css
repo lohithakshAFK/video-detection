@@ -1,0 +1,65 @@
+body{
+    background-size:cover;
+}
+
+.bogytg{
+    width:100%;
+    margin:0;
+    font-size:30px !important;
+    background-color:black;
+    padding:20px;
+    box-shadow:5px 5px 5px black;
+}
+
+.bogytg:hover{
+    background-color:black;
+}
+
+#butten{
+    border-radius:20px;
+    width:30%;
+    background-color:black;
+    box-shadow:5px 5px 5px black;
+    font-size:20px;
+}
+
+#butten:hover{
+    background-color:white;
+    box-shadow:5px 5px 5px white;
+    color:black;
+}
+
+.fd{
+    color:white;
+    background-color:black;
+    box-shadow:5px 5px 5px white;
+    width:20%;
+    padding:5px;
+    margin:10px;
+    border-radius:20px;
+    font-size:20px;
+    margin-top:19px;
+
+}
+
+.fd:hover{
+    color:black;
+    background-color:white;
+    box-shadow:5px 5px 5px black;
+}
+
+.footer{
+    bottom:0;
+    line-height:3;
+    color:white;
+    background-color:grey;
+    width:100%;
+    position:fixed;
+    text-align:center;
+}
+
+canvas{
+    border-radius:20px;
+    box-shadow:5px 5px 5px black;
+    border:solid 2px white;
+}
